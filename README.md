@@ -1,35 +1,61 @@
-👋 Hi there, I'm John Liao
-<img align="right" width="300" height="300" src="" alt="Profile Image">
-🚀 About Me
-Software Developer passionate about creating meaningful solutions. I love turning ideas into reality through code.
-🛠️ Tech Stack
+# 👋 Hi there, I'm John Liao
 
-Languages: Python, Java, C++
-Frontend: React, HTML/CSS
-Backend: Node.js, Django
-Database: SQL
-Tools: git
+<img align="right" width="300" height="300" src="https://github.com/johnliaogithub/JohnLiaoGithub/blob/main/photos/me.png" alt="Profile Image">
 
-🌱 Currently Learning
+## 🚀 About Me
+**Software Developer** passionate about creating meaningful solutions. I love turning ideas into reality through code.
 
+## 🛠️ Tech Stack
+**Languages:**
+- Python
+- C++
+- Java
 
+**Frontend:**
+- React
+- HTML/CSS
 
-📊 GitHub Stats
+**Backend:**
+- Node.js
+- Django
 
+**Database:**
+- SQL
 
-🏆 Projects
+**Tools:**
+- Shell
+- Git
 
-[Project 1] - Brief description
-[Project 2] - Brief description
-[Project 3] - Brief description
+## 🌱 Currently Learning
+- **TBD**
+- **TBD**
 
-📫 How to Reach Me
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnliaogithub&show_icons=true&theme=radical)
 
-LinkedIn: 
-Email: johnliao5@gmail.com
-Portfolio: [Your Website]
+## 🏆 Projects
+### [Project 1]
+- Brief description
+- Technologies used
+- [Link to repo/demo]
 
-💡 Fun Fact
-_____
+### [Project 2]
+- Brief description
+- Technologies used
+- [Link to repo/demo]
 
-⭐️ From your-username
+### [Project 3]
+- Brief description
+- Technologies used
+- [Link to repo/demo]
+
+## 📫 How to Reach Me
+- **LinkedIn:** [John Liao](https://www.linkedin.com/in/john-liao-1b8452317/)
+- **Email:** johnliao5@gmail.com
+- **Portfolio:** [Your Website](YOUR_WEBSITE_URL)
+
+## 💡 Fun Fact
+**_____**
+
+---
+⭐️ From [johnliaogithub](https://github.com/johnliaogithub/)
