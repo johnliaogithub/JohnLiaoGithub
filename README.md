@@ -1,6 +1,19 @@
+#<div align="center">
+
 # 👋 Hi there, I'm John Liao
 
-<img align="right" width="300" height="300" src="https://github.com/johnliaogithub/JohnLiaoGithub/blob/main/photos/me.png" alt="Profile Image">
+</div>
+
+<div>
+  <div align="left">
+    <img align="right" width="300" height="300" src="https://github.com/johnliaogithub/JohnLiaoGithub/blob/main/photos/me.png" alt="Profile Image">
+    <p>
+      <strong>Software Developer</strong> passionate about creating meaningful solutions. I love turning ideas into reality through code.
+    </p>
+    <br clear="right">
+  </div>
+</div>
+
 
 ## 🚀 About Me
 **Software Developer** passionate about creating meaningful solutions. I love turning ideas into reality through code.
