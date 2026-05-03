@@ -11,12 +11,14 @@
 
 ---
 
-## 🛑 Operational Status
-I focus on applied machine learning, reinforcement learning from human preferences, and building autonomous systems that handle messy, real-world physics and continuous action spaces.
+## 👤 Who am I?
+I am a __risk-taker__. I'm the type of guy to throw myself into a fire, a new hobby, or in front of a crowd of strangers, as long as I it makes me a better version of myself. Haters might call me a masochist, but I think improvement is sexy. Feel free to reach out!
 
-- 🔬 **Machine Learning Researcher @ WAT.ai:** Developing preference feedback data pipelines for robot manipulation.
-- 👨‍🏫 **Lead ML Instructor @ ZeroToML:** Instructing a 100-student cohort on machine learning fundamentals.
-- ⚙️ **Current Build:** Developing continuous-action Reinforcement Learning environments utilizing **MuJoCo** and **PyTorch** to optimize drone stabilization against high-frequency kinetic recoil.
+---
+
+## 🔴 Operational Status
+- 🔬 **Machine Learning Researcher @ WAT.ai:** Researching the usage of Vision-Language Models to developing preference feedback data pipelines for robot manipulation.
+- ⚙️ **Current side project:** Developing Reinforcement Learning agents using **PyTorch** to optimize drone stabailization against high-frequency recoil in a **MuJoCo** environment. 
 
 ---
 
