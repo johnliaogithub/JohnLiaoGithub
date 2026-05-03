@@ -3,6 +3,7 @@
 # John Liao
 **Computer Science @ University of Waterloo** | **Machine Learning & Autonomy**
 
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobe-acrobat-reader)](https://johnliaoweb.onrender.com/assets/johnliaoresume-Dcfm9Dg2.pdf)
 [![Portfolio](https://img.shields.io/badge/Website-johnliaoweb-blue?style=flat-square&logo=google-chrome)](https://johnliaoweb.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-liao-1b8452317/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:johnliao5@gmail.com)
@@ -12,17 +13,22 @@
 ---
 
 ## 👤 Who am I?
-I am a __risk-taker__. I'm the type of guy to throw myself into a fire, a new hobby, or in front of a crowd of strangers, as long as I it makes me a better version of myself. Haters might call me a masochist, but I think improvement is sexy. Feel free to reach out!
+I am a __risk-taker__. I throw myself in "high-friction" environments for the heat. Whether it's reverse-engineering physics simulations or stepping into high-pressure leadership roles, my primary metric is iteration speed. 
+
+While my ML models are training, you might find me training in the gym, debugging my university assignments, or sleeping. 
 
 ---
 
-## 🔴 Operational Status
-- 🔬 **Machine Learning Researcher @ WAT.ai:** Researching the usage of Vision-Language Models to developing preference feedback data pipelines for robot manipulation.
-- ⚙️ **Current side project:** Developing Reinforcement Learning agents using **PyTorch** to optimize drone stabailization against high-frequency recoil in a **MuJoCo** environment. 
+## 🔴 Progress
+**Current Deployments:**
+- 🔬 **Machine Learning Researcher @ WAT.ai:** Researching the usage of Vision-Language Models to develop preference feedback data pipelines for robot manipulation.
+- ⚙️ **Side project:** Developing continuous-action Reinforcement Learning agents using **PyTorch** to optimize drone stabilization against high-frequency recoil in a **MuJoCo** environment. 
 
+**Past Operations:**
+- 👨‍🏫 **ML Instructor @ ZeroToML:** Instructed a 100-student cohort on machine learning fundamentals and neural network architectures (Winter 2026).
 ---
 
-## 🛠️ Technical Architecture
+## 🛠️ Technical Skills
 
 **Core Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,6 +45,12 @@ I am a __risk-taker__. I'm the type of guy to throw myself into a fire, a new ho
 ![Linux/Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+---
+
+## 📫 Contact
+- **Email:** johnliao5@gmail.com
+- **LinkedIn:** [John Liao](https://www.linkedin.com/in/john-liao-1b8452317/)
 
 ---
 
