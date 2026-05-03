@@ -1,73 +1,44 @@
 <div align="center">
 
-# 👋 Hi there, I'm John Liao
+# John Liao
+**Computer Science @ University of Waterloo** | **Machine Learning & Autonomy**
+
+[![Portfolio](https://img.shields.io/badge/Website-johnliaoweb-blue?style=flat-square&logo=google-chrome)](https://johnliaoweb.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-liao-1b8452317/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:johnliao5@gmail.com)
 
 </div>
-
-<div align="center">
-  <div align="left">
-    <img align="right" width="300" height="300" src="https://github.com/johnliaogithub/JohnLiaoGithub/blob/main/photos/me.png" alt="Profile Image">
-    <div>
-
-### 🚀 About Me
-**Software Developer** passionate about creating meaningful solutions. I love turning ideas into reality through code. (This was default :)
-    </div>
-    <br clear="right">
-  </div>
-</div>
-
-
-## 🛠️ Tech Stack
-**Languages:**
-- Python
-- C++
-- Java
-
-**Frontend:**
-- React
-- HTML/CSS
-
-**Backend:**
-- Django
-
-**Database:**
-- SQL (on a good day)
-
-**Tools:**
-- Shell
-- Git
-- VS Code
-
-<!-- ## 🌱 Currently Learning
-- **TBD**
-- **TBD** -->
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnliaogithub&show_icons=true&theme=radical)
-
-<!-- ## 🏆 Projects
-### [Project 1]
-- Brief description
-- Technologies used
-- [Link to repo/demo]
-
-### [Project 2]
-- Brief description
-- Technologies used
-- [Link to repo/demo]
-
-### [Project 3]
-- Brief description
-- Technologies used
-- [Link to repo/demo] -->
-
-## 📫 How to Reach Me
-- **LinkedIn:** [John Liao](https://www.linkedin.com/in/john-liao-1b8452317/)
-- **Email:** johnliao5@gmail.com
-<!-- - **Portfolio:** [Your Website](YOUR_WEBSITE_URL)
-
-## 💡 Fun Fact
-**_____**-->
 
 ---
-⭐️ From [johnliaogithub](https://github.com/johnliaogithub/)
+
+## 🛑 Operational Status
+I focus on applied machine learning, reinforcement learning from human preferences, and building autonomous systems that handle messy, real-world physics and continuous action spaces.
+
+- 🔬 **Machine Learning Researcher @ WAT.ai:** Developing preference feedback data pipelines for robot manipulation.
+- 👨‍🏫 **Lead ML Instructor @ ZeroToML:** Instructing a 100-student cohort on machine learning fundamentals.
+- ⚙️ **Current Build:** Developing continuous-action Reinforcement Learning environments utilizing **MuJoCo** and **PyTorch** to optimize drone stabilization against high-frequency kinetic recoil.
+
+---
+
+## 🛠️ Technical Architecture
+
+**Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+**Machine Learning & Simulation**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=flat-square&logo=linux&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Systems & Web**
+![Linux/Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+---
+
+## 📊 Telemetry
+![GitHub Stats](./profile-stats.svg)
