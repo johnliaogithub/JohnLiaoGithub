@@ -55,4 +55,4 @@ While my ML models are training, you might find me training in the gym, debuggin
 ---
 
 ## 📊 Telemetry
-![GitHub Stats](./profile-stats.svg)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=johnliaogithub)](https://github.com/stats-organization/github-stats-extended)
