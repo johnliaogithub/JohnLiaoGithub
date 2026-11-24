@@ -13,18 +13,19 @@
 ---
 
 ## 👤 Who am I?
-I am a __risk-taker__. I throw myself in "high-friction" environments for the heat. Whether it's reverse-engineering physics simulations or stepping into high-pressure leadership roles, my primary metric is iteration speed. 
+I am a __risk-taker__. I enjoy throwing myself out of my comfort zone just to see what happens, and tend to regret my decisions during the moment. 
 
 While my ML models are training, you might find me training in the gym, debugging my university assignments, or sleeping. 
 
 ---
 
 ## 🔴 Progress
-**Current Deployments:**
+**Current Commitments:**
+- ***
+
+**Past Experienes:**
 - 🔬 **Machine Learning Researcher @ WAT.ai:** Researching the usage of Vision-Language Models to develop preference feedback data pipelines for robot manipulation.
 - ⚙️ **Side project:** Developing continuous-action Reinforcement Learning agents using **PyTorch** to optimize drone stabilization against high-frequency recoil in a **MuJoCo** environment. 
-
-**Past Operations:**
 - 👨‍🏫 **ML Instructor @ ZeroToML:** Instructed a 100-student cohort on machine learning fundamentals and neural network architectures (Winter 2026).
 ---
 
